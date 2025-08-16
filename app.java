@@ -21,5 +21,5 @@
         }
 
         return Math.sqrt(standardDeviation/length);
-    }
+    } return
 }
